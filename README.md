@@ -2,7 +2,7 @@
 - 👀 I’m interested in learing new technologies.
 - 🌱 I’m currently learning dotnet and angular
 - 📫 Contact me on: binbean44@gmail.com
-- Cell: +8801766803932
+- 📞 Cell: +8801766803932
 
 <!---
 BinMamun/BinMamun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
