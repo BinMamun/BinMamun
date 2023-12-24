@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abullah Bin Mamun
 - 👀 I’m interested in learing new technologies.
 - 🌐 I’m a web developer.
-- 👨‍💻 I work with Html, CSS, Javascript, Typescript , C#, dotnet and angular. 
+- 👨‍💻 I work with Html, CSS, Javascript, Typescript , C#, .NET and Angular. 
 - 📧 email: binbean44@gmail.com
 - 📞 Cell: +8801766803932
 
