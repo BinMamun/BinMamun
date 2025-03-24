@@ -4,7 +4,7 @@
 
 ## 🔥 About Me  
 - 🎓 Learning & exploring new technologies.  
-- 💻 Experienced in **Html, CSS, JavaScript, TypeScript, C#, .NET, SQL Server, WebForms, and Angular**.  
+- 💻 Experienced in **C#, ASP.NET, SQL Server, Html, CSS, JavaScript, TypeScript, WebForms, and Angular**.  
 - 🎯 Focused on developing scalable and optimized web applications.  
 - 🌍 Based in Dhaka, Bangladesh.  
 
