@@ -1,6 +1,8 @@
 # Hi there! 👋 I'm Abdullah Bin Mamun  
 
-🚀 **A passionate web developer & problem solver!**  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Passionate+.NET+Developer;Full-Stack+Web+Enthusiast;Building+Scalable+Solutions;Lifelong+Learner+%26+Tech+Explorer;Problem+Solver+%7C+Code+Lover;Turning+Ideas+into+Reality" alt="Typing SVG" />
+</p>
 
 ## 🔥 About Me  
 - 🎓 Learning & exploring new technologies.  
