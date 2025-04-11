@@ -31,7 +31,6 @@
 
 ## 📊 GitHub Stats  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BinMamun&theme=dark&hide_border=true)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BinMamun&show_icons=true&theme=dark)  
 
 ## 📫 Get in Touch  
 📧 **Email:** [binbean44@gmail.com](mailto:binbean44@gmail.com)  
