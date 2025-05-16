@@ -19,7 +19,11 @@
 **Backend:**  
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)  
 ![.NET](https://img.shields.io/badge/.NET-%235C2D91.svg?style=flat&logo=dotnet&logoColor=white)  
-![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=flat&logo=microsoft-sql-server&logoColor=white)  
+![ASP.NET Web API](https://img.shields.io/badge/ASP.NET%20Web%20API-%232C3E50.svg?style=flat&logo=.net&logoColor=white)  
+
+<!-- Database -->
+![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?style=flat&logo=oracle&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=flat&logo=microsoft-sql-server&logoColor=white)
 
 ## 📌 Pinned Repositories  
 🔹 [**AbdullahInventory**](https://github.com/BinMamun/abdullahinventory) (Public) - .NET-based inventory management system.  
