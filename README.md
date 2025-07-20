@@ -33,9 +33,6 @@
 🔹 [**Dark-Theme-Website-Design**](https://github.com/BinMamun/Asp.Net-Core-Repository) - (Public) - DARK and LIGHT themed website using HTML, CSS & JavaScript.  
 🔹 [**weather-app**](https://github.com/BinMamun/weather-app) (Public) - web based Live Weather application using HTML, CSS & JavaScript.  
 
-## 📊 GitHub Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BinMamun&theme=dark&hide_border=true)  
-
 ## 📫 Get in Touch  
 📧 **Email:** [binbean44@gmail.com](mailto:binbean44@gmail.com)  
 📞 **Phone:** [+8801766803932](tel:+8801766803932)  
